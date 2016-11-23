@@ -4,13 +4,8 @@ package com.singh.vinay.mymeterial.utils;
  * Created by ios4_dev on 11/19/15.
  */
 public class Constants {
-    //public static final String HOST_URL = "http://api-tgw.anovatesoft.com/v1/";
-   // public static final String HOST_URL = "http://devapi.thirstybuddy.com/v1/";
-    //public static final String HOST_URL = "http://192.168.73.155/thirstybuddy_user_ci/v1/";
-   // public static final String HOST_URL = "http://192.168.73.155/thirstybuddy_user_ci/v1/";//  public static final String HOST_URL =  "http://192.168.73.149/thirstybuddy_user_ci/v1/";
-    //public static final String HOST_URL = "http://devapi.thirstybuddy.com/v1/";
-    public static final String HOST_URL = "http://api.thirstybuddy.com/v1/";
-    //public static final String HOST_URL = "http://192.168.73.149/thirstybuddy_user_ci/v1/";
+   
+    public static final String HOST_URL = "";
     public static final String APP_SHARED_PREFS = "App preference";
     public static final String API_KEY = "user_api";
     public static final String FRAG_INFO = "fragment tag info";
@@ -107,7 +102,7 @@ public class Constants {
     public static final String PIC_LAST_NAME ="pic last name" ;
     public static final String FOOD_CATEGOERY_ARRAY_LIST = "food categoery list data" ;
     public static final String SAVE_ADD_CHECKBOX = "save check addone";
-    public static final String WEB_VIEW_URL_FOR_CONTENT= "https://thirstybuddy.com/content/index/";
-    public static final String WEB_VIEW_URL_FOR_UPCOMING_EVENT= "https://thirstybuddy.com/tb_event/index/";
+    public static final String WEB_VIEW_URL_FOR_CONTENT= "https://";
+    public static final String WEB_VIEW_URL_FOR_UPCOMING_EVENT= "https://";
 
 }
